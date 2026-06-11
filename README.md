@@ -11,9 +11,9 @@
 
 | 实验 | 技术方向 | 对应 Mini 项目 | 状态 |
 |------|----------|----------------|------|
-| [BERT 中文情感分类](#实验1) | Fine-tuning · NLP | 项目2 RepoMind | 🔄 进行中 |
-| [Prompt Engineering 文本评估](#实验2) | PE · Few-shot · CoT | 项目3 Skill 评估 | ⏳ 待开始 |
-| [RAG 中文问答系统](#实验3) | RAG · 向量检索 · LLM | 项目2 / 3 / 5 | ⏳ 待开始 |
+| [BERT 中文情感分类](#实验1) | Fine-tuning · NLP | 项目2 RepoMind | 已完成 |
+| [Prompt Engineering 文本评估](#实验2) | PE · Few-shot · CoT | 项目3 Skill 评估 | 已完成 |
+| [RAG 中文问答系统](#实验3) | RAG · 向量检索 · LLM | 项目2 / 3 / 5 | 待开始 |
 
 ---
 
